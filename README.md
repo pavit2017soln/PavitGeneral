@@ -1,2 +1,1 @@
-# PavitGeneral
-This repository is for practice
+Hello Pavit 
